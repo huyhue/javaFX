@@ -1,0 +1,4 @@
+#Wed Apr 29 17:13:04 ICT 2020
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=java ee
